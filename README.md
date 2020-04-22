@@ -1,0 +1,5 @@
+# GameLife 
+
+## Dependencias:
+* Pygame
+* Numpy
